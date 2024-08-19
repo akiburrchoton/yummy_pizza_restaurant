@@ -1,24 +1,30 @@
 # Software Development Final Assignment 
-<h3>Yummy Pizza Restaurant</h3>
+<h3>Yummy Pizza Restaurant Web Application</h3>
 
-It was an assignment of Software Development subject of my master's. We were taught the software requirements analysis, design and implementation. 
+Project Description:
+The "Yummy Pizza Restaurant" web application was developed as part of a Software Development  subject assignment in my master’s program. The objective of this assignment was to apply software requirements analysis, design, and implementation techniques learned during the course.
 
-During the design phase I went through and designed these:
+Motivation:
+The project aimed to enhance practical understanding of software design and development by creating a system that manages pizza-related data. The focus was on mastering design tools and implementing core functionality using a programming language that was new to me.
+
+Design and Methodology:
+The project involved several phases, starting with the design phase where I created:
 <ul>
-  <li><i>Use Case Diagram Design</li>
-  <li>Use Case Description Writing</li>
-  <li>Class Diagram Design</li>
-  <li>Sequence Diagram Design</i></li>
+  <li>Use Case Diagrams: To outline the functional requirements and interactions.</li>
+  <li>Use Case Descriptions: To detail the functionalities and user interactions.</li>
+  <li>Class Diagrams: To define the structure and relationships of data entities.</li>
+  <li>Sequence Diagrams: To illustrate the flow of operations and interactions within the system.</li>
 </ul>
 
-Based on the design part then we were assigned to develop the system. Since the course time was limited, we were to develop inital scopes only where it covered the CRUD function using database. We were suggested to code either with JAVA or PYTHON. Since I already learnt JAVA in my bachelors, I decided to learn Python in detail and do it using PYTHON. 
+Given the limited course duration, the implementation was focused on CRUD (Create, Read, Update, Delete) operations. I opted to use Python, leveraging the TKINTER module, to develop the application due to my prior experience with Java and the opportunity to deepen my knowledge of Python.
 
-Using Python and TKINTER module, I developed the system where the functions were covered: 
+Key Features Implemented:
 <ul>
   <li>Adding a new pizza into the system</li>
   <li>Searching a pizza</li>
   <li>Updating a pizza into the database</li>
   <li>Deleting a pizza from the database</li>
-  <li>Showing detail of the pizza in separte page</li>
+  <li>Viewing detailed pizza information on a separate page</li>
 </ul>
 
+This assignment demonstrated my ability to apply Software Design Principles and effectively use a new programming language to develop a functional system.
