@@ -18,7 +18,7 @@ The project involved several phases, starting with the design phase where I crea
   <li>Sequence Diagrams: To illustrate the flow of operations and interactions within the system.</li>
 </ul>
 
-Given the limited course duration, the implementation was focused on CRUD (Create, Read, Update, Delete) operations. I opted to use Python, leveraging the TKINTER module, to develop the application due to my prior experience with Java and the opportunity to deepen my knowledge of Python.
+Given the limited course duration, the implementation was focused on **CRUD (Create, Read, Update, Delete)** operations. I opted to use Python, leveraging the TKINTER module, to develop the application due to my prior experience with Java and the opportunity to deepen my knowledge of Python.
 
 <h4>Key Features Implemented:</h4>
 
