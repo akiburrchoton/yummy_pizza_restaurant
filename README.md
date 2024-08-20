@@ -1,7 +1,7 @@
 # Software Development Final Assignment 
 <h3>Yummy Pizza Restaurant Web Application</h3>
 
-Project Description:
+Overview:
 The "Yummy Pizza Restaurant" web application was developed as part of a Software Development  subject assignment in my master’s program. The objective of this assignment was to apply software requirements analysis, design, and implementation techniques learned during the course.
 
 Motivation:
